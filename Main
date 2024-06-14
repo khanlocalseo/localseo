@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Blog</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <article id="home">
+            <h2>Welcome to My Blog!</h2>
+            <p>This is the home page of my blog. Here you'll find all sorts of interesting articles and posts.</p>
+        </article>
+
+        <article id="about">
+            <h2>About Me</h2>
+            <p>I'm a passionate blogger who loves to share my thoughts and ideas with the world.</p>
+        </article>
+
+        <article id="contact">
+            <h2>Contact Me</h2>
+            <p>You can reach out to me via email at example@example.com</p>
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 My Blog</p>
+    </footer>
+</body>
+</html>
