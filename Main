@@ -16,6 +16,7 @@
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
+            <li><a href="#khan-seo">Khan Local SEO</a></li>
         </ul>
     </nav>
 
@@ -33,6 +34,34 @@
         <article id="contact">
             <h2>Contact Me</h2>
             <p>You can reach out to me via email at example@example.com</p>
+        </article>
+
+        <article id="khan-seo">
+            <h2>Khan Local SEO Company: Boosting Your Business Online</h2>
+            <p>Khan Local SEO Company is a leading provider of search engine optimization services tailored to local businesses. With a team of experienced SEO experts, Khan Local SEO helps businesses improve their online visibility, attract more local customers, and increase their revenue.</p>
+            
+            <h3>Services Offered</h3>
+            <ul>
+                <li>Local keyword research and analysis</li>
+                <li>On-page optimization</li>
+                <li>Google My Business optimization</li>
+                <li>Local directory submissions</li>
+                <li>Reputation management</li>
+                <li>Local link building</li>
+                <li>Monthly reporting and analysis</li>
+            </ul>
+
+            <h3>Why Choose Khan Local SEO?</h3>
+            <p>There are several reasons why businesses choose Khan Local SEO for their digital marketing needs:</p>
+            <ul>
+                <li>Proven track record of delivering results</li>
+                <li>Customized strategies tailored to each client's unique needs</li>
+                <li>Transparent communication and reporting</li>
+                <li>Affordable pricing packages</li>
+                <li>Excellent customer service and support</li>
+            </ul>
+
+            <p>Whether you're a small local business or a large enterprise, Khan Local SEO Company has the expertise and resources to help you succeed online. Contact us today to learn more about our services and how we can help your business thrive!</p>
         </article>
     </main>
 
